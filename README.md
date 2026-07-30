@@ -212,4 +212,5 @@ This repository is for research, education, documentation, and reproducibility. 
 Rural West Bengal, India  
 Email: [info@sunshinebirdworld.org](mailto:info@sunshinebirdworld.org)  
 Website: [https://www.sunshinebirdworld.org](https://www.sunshinebirdworld.org)  
-GitHub: [https://github.com/sunshinebirdworld/avian-research](https://github.com/sunshinebirdworld/avian-research)
+GitHub: [https://github.com/sunshinebirdworld/avian-research](https://github.com/sunshinebirdworld/avian-research)  
+GitLab mirror: [https://gitlab.com/sunshinebirdworld/avian-research](https://gitlab.com/sunshinebirdworld/avian-research)
