@@ -213,7 +213,7 @@ This repository is for research, education, documentation, and reproducibility. 
 ## Contact
 
 **Sunshine BirdWorld**  
-Rural West Bengal, India  
+West Bengal, India  
 Email: [info@sunshinebirdworld.org](mailto:info@sunshinebirdworld.org)  
 Website: [https://www.sunshinebirdworld.org](https://www.sunshinebirdworld.org)  
 GitHub: [https://github.com/sunshinebirdworld/avian-research](https://github.com/sunshinebirdworld/avian-research)  
