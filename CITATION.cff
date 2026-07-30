@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+title: Sunshine BirdWorld Avian Research Methods
+message: If you use this repository, protocols, schemas, or analysis code, please cite it
+  as below.
+type: software
+authors:
+- family-names: Banerjee
+  given-names: Debashis
+  affiliation: Sunshine BirdWorld
+  email: info@sunshinebirdworld.org
+- family-names: Banerjee
+  given-names: Anindita
+  affiliation: Sunshine BirdWorld
+  email: info@sunshinebirdworld.org
+repository-code: https://github.com/sunshinebirdworld/avian-research
+url: https://www.sunshinebirdworld.org
+date-released: '2026-07-30'
+version: 0.1.0
+license: Apache-2.0 AND CC-BY-4.0
+abstract: Open protocols, metadata schemas, reproducible analysis workflows, and synthetic
+  demonstration resources supporting avian health, conservation breeding, disease surveillance,
+  and high-level avian bornavirus research questions at Sunshine BirdWorld, a managed avicultural
+  breeding and research centre in rural West Bengal, India. Demonstration datasets in this
+  repository are synthetic and must not be represented as institutional results.
+keywords:
+- avian research
+- conservation breeding
+- hatchability
+- avian bornavirus
+- reproducible analysis
+- aviculture
+- data governance
+preferred-citation:
+  type: software
+  authors:
+  - family-names: Banerjee
+    given-names: Debashis
+    affiliation: Sunshine BirdWorld
+  - family-names: Banerjee
+    given-names: Anindita
+    affiliation: Sunshine BirdWorld
+  title: Sunshine BirdWorld Avian Research Methods
+  year: 2026
+  version: 0.1.0
+  url: https://github.com/sunshinebirdworld/avian-research

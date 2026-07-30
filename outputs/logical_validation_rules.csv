@@ -1,0 +1,10 @@
+rule_id,description,n_violations,violating_egg_ids,passed
+1,egg_id must be unique,0,[],True
+2,hatch_status=hatched requires fertility_status=fertile,0,[],True
+3,hatch_status=hatched requires a hatch_date,0,[],True
+4,hatch_date cannot precede lay_date,0,[],True
+5,chick_status_day7 is applicable only to hatched eggs,0,[],True
+6,embryo_loss_stage is not_applicable for infertile eggs,0,[],True
+7,fertile non-hatched egg should have loss stage or unknown,0,[],True
+8,initial_weight_g must be positive when present (species limits external),0,[],True
+9,exclusion_reason required when data_quality_flag=exclude,0,[],True

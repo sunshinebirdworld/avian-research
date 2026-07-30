@@ -1,0 +1,5 @@
+embryo_loss_stage,n,proportion_of_fertile_unhatched,n_fertile_unhatched
+late,16,0.42105263157894735,38
+early,13,0.34210526315789475,38
+middle,5,0.13157894736842105,38
+unknown,4,0.10526315789473684,38
