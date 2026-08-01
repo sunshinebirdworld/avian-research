@@ -1,16 +1,10 @@
 # Sunshine BirdWorld Avian Research Methods
 
-> ## Experimental Demonstration Repository
->
-> This is an early stage, nonproduction demonstration of proposed research methods, schemas, synthetic data and analysis workflows. It does not contain validated Sunshine BirdWorld research findings unless expressly stated. Sunshine BirdWorld’s substantive scientific work is ordinarily communicated through peer reviewed journals, veterinary and avicultural publications, books, conferences and established scientific forums. The material must not be used for veterinary, clinical, husbandry, conservation, legal or regulatory decisions without independent expert review. Sensitive operational information is intentionally excluded.
-
 **Open, reproducible methods for avian health, conservation breeding, disease surveillance, and evidence generation from managed avicultural populations.**
 
 Sunshine BirdWorld is a long-running avicultural breeding and research centre in rural West Bengal, India. This repository is a public methods and reproducibility workspace for converting carefully documented field observations into transparent, reviewable, and reusable scientific outputs.
 
 The repository is designed for veterinarians, avian researchers, conservation breeders, statisticians, data stewards, and responsible aviculturists. It is not a commercial product repository and does not contain trade secrets, customer data, live-animal sale information, precise facility-security details, or personally identifying information.
-
-> **Repository status:** Experimental demonstration repository for methods, schemas, synthetic data, and analysis workflows only. Not a production research archive and not a substitute for peer-reviewed Sunshine BirdWorld publications.
 
 ## Why this repository exists
 

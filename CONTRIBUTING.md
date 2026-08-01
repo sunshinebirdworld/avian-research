@@ -1,9 +1,5 @@
 # Contributing
 
-> ## Experimental Demonstration Repository
->
-> This is an early stage, nonproduction demonstration of proposed research methods, schemas, synthetic data and analysis workflows. It does not contain validated Sunshine BirdWorld research findings unless expressly stated. Sunshine BirdWorld’s substantive scientific work is ordinarily communicated through peer reviewed journals, veterinary and avicultural publications, books, conferences and established scientific forums. The material must not be used for veterinary, clinical, husbandry, conservation, legal or regulatory decisions without independent expert review. Sensitive operational information is intentionally excluded.
-
 Thank you for helping improve Sunshine BirdWorld Avian Research Methods.
 
 Project leads: **Dr. Debashis Banerjee** and **Dr. Anindita Banerjee**  
